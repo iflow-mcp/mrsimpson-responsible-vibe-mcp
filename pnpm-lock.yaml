@@ -37,7 +37,7 @@ importers:
         specifier: 27.0.0
         version: 27.0.0
       '@types/node':
-        specifier: ^22.0.0
+        specifier: ^22.19.8
         version: 22.19.8
       glob:
         specifier: 13.0.1
